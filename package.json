@@ -8,8 +8,8 @@
     "url": "git://github.com/bensmithett/SC_TestConsumerApp.git"
   },
   "devDependencies": {
-    "SC_base": "bensmithett/SC_base#15bd5b5",
-    "SC_TestComponent": "bensmithett/SC_TestComponent#a9917b83fb",
+    "SC_base": "bensmithett/SC_base#1.0.0",
+    "SC_TestComponent": "bensmithett/SC_TestComponent#1.0.0",
     "gulp": "^3.8.7",
     "gulp-concat": "^2.3.4"
   },
