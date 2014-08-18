@@ -1,0 +1,19 @@
+{
+  "name": "SC_TestConsumerApp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A strawman app that consumes SC_ components",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bensmithett/SC_TestConsumerApp.git"
+  },
+  "devDependencies": {
+    "SC_base": "bensmithett/SC_base#15bd5b5",
+    "SC_TestComponent": "bensmithett/SC_TestComponent#a9917b83fb",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/gulp"
+  }
+}
